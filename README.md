@@ -1,4 +1,4 @@
-# Ahoy there! ⚓
+# From the bridge 🌊⚓
 
 I'm **Andrew**, a seafarer working at sea 🌊 and exploring how tech can make life on board smarter and easier.  
 Currently diving into **AI**, **DeFi**, and **automation tools** — both on ship and on shore.
